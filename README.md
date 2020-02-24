@@ -1,3 +1,9 @@
+Link to the endpoint URL
+
+http://udagram-rahman-dev-dev.us-east-2.elasticbeanstalk.com/
+
+http://udagram-rahman-dev-dev.us-east-2.elasticbeanstalk.com/filteredimage?image_url=https://www.toyota.com/imgix/responsive/images/mlp/colorizer/2020/c-hr/070/1.png?bg=fff&fm=webp
+
 <<<<<<< HEAD
 # Udagram Image Filtering Microservice
 
