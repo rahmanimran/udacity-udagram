@@ -54,5 +54,3 @@ Prevent requests without valid authentication headers.
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
 =======
-# cfit-udagram-imran
->>>>>>> 1e44c6e8ee1fda599831a7eb9b7b3703a68932e8
